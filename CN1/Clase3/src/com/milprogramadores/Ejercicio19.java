@@ -35,7 +35,7 @@ public class Ejercicio19 {
 	 * @return
 	 */
 	public static boolean esPrimo(int numeroComoArgumento) {
-		// es primo cuando es divisible por 1 y si mismo
+		// es primo cuando es divisible por 1 y si mismo y que sea mayor de uno por teorema fundamental de los primos. Refuta teoria de baldor
 		if( numeroComoArgumento == 1 || numeroComoArgumento == 0) {
 			return false;
 		}

@@ -37,7 +37,7 @@ public class Ejercicio19 {
 	public static boolean esPrimo(int numeroAEvaluar) {
 		int max_divisores = 2;
 		int contador_divisores = 0;
-                // se toma como primo todo numero mayor de 1 divisible por 1 y si mismo. 
+                // es primo cuando es divisible por 1 y si mismo y que sea mayor de uno por teorema fundamental de los primos. Refuta teoria de baldor
 		if(numeroAEvaluar == 0 || numeroAEvaluar == 1) {
 			return false;
 		}

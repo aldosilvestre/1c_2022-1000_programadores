@@ -37,9 +37,9 @@ public class Ejercicio19 {
 	public static boolean esPrimo(int numeroAEvaluar) {
 		int max_divisores = 2;
 		int contador_divisores = 0;
-
+                // se toma como primo todo numero mayor de 1 divisible por 1 y si mismo. 
 		if(numeroAEvaluar == 0 || numeroAEvaluar == 1) {
-			return true;
+			return false;
 		}
 		//5
 		for(int divisor = 1; divisor <= numeroAEvaluar; divisor++ ) {

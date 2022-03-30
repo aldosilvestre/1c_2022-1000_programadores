@@ -37,7 +37,7 @@ public class Ejercicio19 {
 	public static boolean esPrimo(int numeroComoArgumento) {
 		// es primo cuando es divisible por 1 y si mismo
 		if( numeroComoArgumento == 1 || numeroComoArgumento == 0) {
-			return true;
+			return false;
 		}
 		int divisores = 0;
 		int max_divisores = 2;

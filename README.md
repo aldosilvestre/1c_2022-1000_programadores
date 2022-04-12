@@ -11,6 +11,7 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 4 31/03/2022: Practico 4 ( ejercicios 1, 3, 5, 6 ), arrays estaticos, arrays dinamicos, metodos array, matrices
 - Clase 5 05/04/2022: Metodos + ejercicios 3 y 5, Metodos de Ordenamiento y busqueda, ejercicios 8 de Arreglos.
 - Clase 6 07/04/2022: Repaso Matrices, Concepto de Objetos y clases (atributos, metodos de instancia y de clases, constructores).
+- Clase 7 12/04/2022: Repaso clase 1, accessors, constructores, metodos clase y instacia, ejercicios tp1(1, 2), ejercicios tp2(4).
 
 ## Comision Noche 1 (CN1)
 - Clase 2 23/03/2022: Estructura codigo Java, comentarios, identificadores, variables, operadores.
@@ -18,3 +19,4 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 4 30/03/2022: Practico 4 ( ejercicios 1, 3, 5, 7, 11, 18 ), arrays estaticos, arrays dinamicos, metodos array, matrices
 - Clase 5 04/04/2022: Metodos + ejercicios 1 y 5, Metodos de Ordenamiento y busqueda, ejercicios 1 y 3 de Arreglos.
 - Clase 6 06/04/2022: Repaso Matrices, Concepto de Objetos y clases (atributos, metodos de instancia y de clases).
+- Clase 7 11/04/2022: Repaso clase 1, accessors, constructores, metodos clase y instacia, ejercicios tp1(1, 3), ejercicios tp2(3).

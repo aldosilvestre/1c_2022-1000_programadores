@@ -12,6 +12,7 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 5 05/04/2022: Metodos + ejercicios 3 y 5, Metodos de Ordenamiento y busqueda, ejercicios 8 de Arreglos.
 - Clase 6 07/04/2022: Repaso Matrices, Concepto de Objetos y clases (atributos, metodos de instancia y de clases, constructores).
 - Clase 7 12/04/2022: Repaso clase 1, accessors, constructores, metodos clase y instacia, ejercicios tp1(1, 2), ejercicios tp2(4).
+- Clase 8 14/04/2022: Conceptos herencia, polimorfismo, object in object, metodos lookup, UML (diagrama clase), interfaces.
 
 ## Comision Noche 1 (CN1)
 - Clase 2 23/03/2022: Estructura codigo Java, comentarios, identificadores, variables, operadores.
@@ -20,4 +21,4 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 5 04/04/2022: Metodos + ejercicios 1 y 5, Metodos de Ordenamiento y busqueda, ejercicios 1 y 3 de Arreglos.
 - Clase 6 06/04/2022: Repaso Matrices, Concepto de Objetos y clases (atributos, metodos de instancia y de clases).
 - Clase 7 11/04/2022: Repaso clase 1, accessors, constructores, metodos clase y instacia, ejercicios tp1(1, 3), ejercicios tp2(3).
-- Clase 7 13/04/2022: Conceptos herencia, polimorfismo, object in object, metodos lookup, UML (diagrama clase), interfaces.
+- Clase 8 13/04/2022: Conceptos herencia, polimorfismo, object in object, metodos lookup, UML (diagrama clase), interfaces.

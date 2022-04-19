@@ -22,3 +22,4 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 6 06/04/2022: Repaso Matrices, Concepto de Objetos y clases (atributos, metodos de instancia y de clases).
 - Clase 7 11/04/2022: Repaso clase 1, accessors, constructores, metodos clase y instacia, ejercicios tp1(1, 3), ejercicios tp2(3).
 - Clase 8 13/04/2022: Conceptos herencia, polimorfismo, object in object, metodos lookup, UML (diagrama clase), interfaces.
+- Clase 9 18/04/2022: Ejercicio 5 TP2 POO.

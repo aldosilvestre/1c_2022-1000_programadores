@@ -13,6 +13,7 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 6 07/04/2022: Repaso Matrices, Concepto de Objetos y clases (atributos, metodos de instancia y de clases, constructores).
 - Clase 7 12/04/2022: Repaso clase 1, accessors, constructores, metodos clase y instacia, ejercicios tp1(1, 2), ejercicios tp2(4).
 - Clase 8 14/04/2022: Conceptos herencia, polimorfismo, object in object, metodos lookup, UML (diagrama clase), interfaces.
+- Clase 9 19/04/2022: Ejercicio 7 TP2 POO.
 
 ## Comision Noche 1 (CN1)
 - Clase 2 23/03/2022: Estructura codigo Java, comentarios, identificadores, variables, operadores.

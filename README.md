@@ -15,6 +15,7 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 8 14/04/2022: Conceptos herencia, polimorfismo, object in object, metodos lookup, UML (diagrama clase), interfaces.
 - Clase 9 19/04/2022: Ejercicio 7 TP2 POO.
 - Clase 10 21/04/2022: Ejercicio 2 y Ejercicio 3 TP3 POO.
+- Clase 11 26/04/2022: Ejercicio 4 TP3 POO.
 
 ## Comision Noche 1 (CN1)
 - Clase 2 23/03/2022: Estructura codigo Java, comentarios, identificadores, variables, operadores.

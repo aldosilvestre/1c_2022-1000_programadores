@@ -16,6 +16,7 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 9 19/04/2022: Ejercicio 7 TP2 POO.
 - Clase 10 21/04/2022: Ejercicio 2 y Ejercicio 3 TP3 POO.
 - Clase 11 26/04/2022: Ejercicio 4 TP3 POO.
+- Clase 12 28/04/2022: Repaso Matrices, array mutables e inmutables, constructores, metodos y clases.
 
 ## Comision Noche 1 (CN1)
 - Clase 2 23/03/2022: Estructura codigo Java, comentarios, identificadores, variables, operadores.

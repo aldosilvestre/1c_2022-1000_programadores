@@ -30,3 +30,4 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 10 20/04/2022: Ejercicio 2 y Ejercicio 3 TP3 POO.
 - Clase 11 25/04/2022: Ejercicio 4 TP3 POO.
 - Clase 12 27/04/2022: Ejercicio 6 TP3 POO.
+- Clase 13 02/05/2022: Repaso Matrices, array mutables e inmutables, herencia, bucles, sintaxis.

@@ -19,6 +19,7 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 12 28/04/2022: Repaso Matrices, array mutables e inmutables, constructores, metodos y clases.
 - Clase 13 03/05/2022: Repaso + dinamica de grupo.
 - Clase 15 10/05/2022: InputStream, OutputStream, creacion, escritura y lectura de archivos.
+- Clase 16 12/05/2022: Ejercicios Guia de E/S e Files (1, 2, 5).
 
 ## Comision Noche 1 (CN1)
 - Clase 2 23/03/2022: Estructura codigo Java, comentarios, identificadores, variables, operadores.
@@ -34,4 +35,4 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 12 27/04/2022: Ejercicio 6 TP3 POO.
 - Clase 13 02/05/2022: Repaso Matrices, array mutables e inmutables, herencia, bucles, sintaxis.
 - Clase 15 09/05/2022: InputStream, OutputStream, creacion, escritura y lectura de archivos.
-- Clase 16 09/05/2022: Ejercicios Guia de E/S e Files (1, 2, 5).
+- Clase 16 11/05/2022: Ejercicios Guia de E/S e Files (1, 2, 5).

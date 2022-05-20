@@ -21,6 +21,7 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 15 10/05/2022: InputStream, OutputStream, creacion, escritura y lectura de archivos.
 - Clase 16 12/05/2022: Ejercicios Guia de E/S e Files (1, 2, 5).
 - Clase 17 17/05/2022: Lista, pila, cola + ejercicios 9 y 11, tipo generico.
+- Clase 18 19/05/2022: HashMap y Recursividad + ejercicios.
 
 ## Comision Noche 1 (CN1)
 - Clase 2 23/03/2022: Estructura codigo Java, comentarios, identificadores, variables, operadores.

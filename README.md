@@ -24,6 +24,7 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 18 19/05/2022: HashMap y Recursividad + ejercicios.
 - Clase 19 24/05/2022: BD conceptos.
 - Clase 20 26/05/2022: BD ejercitación.
+- Clase 21 31/05/2022: JDBC + Hibernate + maven.
 
 ## Comision Noche 1 (CN1)
 - Clase 2 23/03/2022: Estructura codigo Java, comentarios, identificadores, variables, operadores.
@@ -44,3 +45,4 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 18 18/05/2022: HashMap y Recursividad + ejercicios.
 - Clase 19 23/05/2022: BD conceptos.
 - Clase 20 26/05/2022: BD ejercitación.
+- Clase 21 30/05/2022: JDBC + Hibernate + maven.

@@ -46,3 +46,4 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 19 23/05/2022: BD conceptos.
 - Clase 20 26/05/2022: BD ejercitación.
 - Clase 21 30/05/2022: JDBC + Hibernate + maven.
+- Clase 22 01/06/2022: Ejercicios DB Practico.

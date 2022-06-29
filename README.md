@@ -26,6 +26,8 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 20 26/05/2022: BD ejercitación.
 - Clase 21 31/05/2022: JDBC + Hibernate + maven.
 - Clase 22 02/06/2022: Ejercicios DB Practico.
+- Clase 28 23/06/2022: Login y registro usuario hasta BD + Diagrama clase + Secuencia + DER
+- Clase 29 28/06/2022: Maven + API + Spark 
 
 ## Comision Noche 1 (CN1)
 - Clase 2 23/03/2022: Estructura codigo Java, comentarios, identificadores, variables, operadores.
@@ -48,3 +50,6 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 20 26/05/2022: BD ejercitación.
 - Clase 21 30/05/2022: JDBC + Hibernate + maven.
 - Clase 22 01/06/2022: Ejercicios DB Practico.
+- Clase 28 22/06/2022: Login y registro usuario hasta BD + Diagrama clase + Secuencia + DER.
+- Clase 29 27/06/2022: Maven + API + Spark + Postman.
+

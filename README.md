@@ -28,6 +28,7 @@ Este repositorio esta dedicado a la subida del codigo producido en clases para c
 - Clase 22 02/06/2022: Ejercicios DB Practico.
 - Clase 28 23/06/2022: Login y registro usuario hasta BD + Diagrama clase + Secuencia + DER
 - Clase 29 28/06/2022: Maven + API + Spark 
+- Clase 30 30/06/2022: Flujo de solucion para un caso de heladeria (endpoint + consultas + guardados + auth)
 
 ## Comision Noche 1 (CN1)
 - Clase 2 23/03/2022: Estructura codigo Java, comentarios, identificadores, variables, operadores.
